@@ -1,0 +1,10 @@
+{
+  "name": "starter-service",
+  "version": "1.0.0",
+  "description": "Default Serverless Cloud service",
+  "main": "index.js",
+  "serverless": {
+    "org": "wanghq",
+    "service": "serverlessness"
+  }
+}
